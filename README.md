@@ -1,4 +1,4 @@
-# LisN Games! Where the world comes to play.
+# LisN Games! Where the world comes to play!
 
 Welcome to LisN Games! This repository contains games developed by LisN. Enjoy playing and have fun!
 
